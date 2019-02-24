@@ -1,2 +1,2 @@
 # EstudosGit
-Repositório para estudos de GIT
+Repositório para estudos de GIT!
